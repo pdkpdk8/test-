@@ -1,0 +1,2 @@
+23-01-14 23:26:49.301 conftest     INFO     开始执行：testcase/test_login.py::test_baidu[\u4e0d\u5b58\u5728\u8d26\u53f7-11111-\u767b\u5f55\u8d26\u53f7\u4e0d\u5b58\u5728]
+23-01-14 23:27:02.774 conftest     ERROR    用例执行结果：【failed】
